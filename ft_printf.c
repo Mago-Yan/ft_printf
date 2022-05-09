@@ -6,14 +6,11 @@
 /*   By: pmillan- <pmillan-@student.42madrid.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/04/20 16:57:54 by pmillan-          #+#    #+#             */
-/*   Updated: 2022/04/27 17:08:34 by pmillan-         ###   ########.fr       */
+/*   Updated: 2022/05/09 15:12:56 by pmillan-         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "ft_printf.h"
-// #include "libft.h"
- #include <stdio.h>
-// #include <stdarg.h>
 
 int	ft_printf(const char *s, ...)
 {
